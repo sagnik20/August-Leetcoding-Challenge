@@ -1,9 +1,9 @@
-# June-Leetcoding-Challenge
+# August-Leetcoding-Challenge
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sagnik20/July-Leetcoding-Challenge/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/sagnik20/ama) [![made-for-LeetCode](https://img.shields.io/badge/Made%20for-LeetCode-1f425f.svg)](https://leetcode.com/) [![GitHub issues](https://img.shields.io/github/issues/sagnik20/July-Leetcoding-Challenge)](https://github.com/sagnik20/July-Leetcoding-Challenge/issues)
-[![GitHub forks](https://img.shields.io/github/forks/sagnik20/July-Leetcoding-Challenge?style=social)](https://github.com/sagnik20/July-Leetcoding-Challenge/network) [![GitHub stars](https://img.shields.io/github/stars/sagnik20/July-Leetcoding-Challenge?style=social)](https://github.com/sagnik20/July-Leetcoding-Challenge/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sagnik20/August-Leetcoding-Challenge/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/sagnik20/ama) [![made-for-LeetCode](https://img.shields.io/badge/Made%20for-LeetCode-1f425f.svg)](https://leetcode.com/) [![GitHub issues](https://img.shields.io/github/issues/sagnik20/August-Leetcoding-Challenge)](https://github.com/sagnik20/August-Leetcoding-Challenge/issues)
+[![GitHub forks](https://img.shields.io/github/forks/sagnik20/August-Leetcoding-Challenge?style=social)](https://github.com/sagnik20/August-Leetcoding-Challenge/network) [![GitHub stars](https://img.shields.io/github/stars/sagnik20/August-Leetcoding-Challenge?style=social)](https://github.com/sagnik20/August-Leetcoding-Challenge/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-I have started from 1st July in this Challenge. And this repository contains my solutions to the challenge. Only the `exact solution`. If you want to improve the solutions, Please open a `Issue first`.
+I have started from 1st August in this Challenge. And this repository contains my solutions to the challenge. Only the `exact solution`. If you want to improve the solutions, Please open a `Issue first`.
 
 ## :rocket: Get Started
 
