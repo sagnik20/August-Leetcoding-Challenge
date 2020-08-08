@@ -10,7 +10,7 @@ I have started from 1st August in this Challenge. And this repository contains m
 ### Questions : 
 
 #### Day-01 : 
-**Detect CapitalDetect Capital :** 
+**Detect Capital :** 
 >Given a word, you need to judge whether the usage of capitals in it is right or not.
 
 >We define the usage of capitals in a word to be right when one of the following cases holds:
