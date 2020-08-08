@@ -37,6 +37,8 @@ Output: False
 
 **Note:** The input will be a non-empty word consisting of uppercase and lowercase latin letters.
 
+***
+
 #### Day-02 : 
 **Design HashSet :** 
 >Design a HashSet without using any built-in hash table libraries.
@@ -69,6 +71,8 @@ hashSet.contains(2);    // returns false (already removed)
 - The number of operations will be in the range of [1, 10000].
 - Please do not use the built-in HashSet library.
 
+***
+
 #### Day-03 : 
 **Valid Palindrome : **
 
@@ -94,6 +98,27 @@ Output: false
 
 - `s` consists only of printable ASCII characters.
 
+***
+
+#### Day-04 : 
+**Power of Four : **
+
+>Given an integer (signed 32 bits), write a function to check whether it is a power of 4.
+
+**Example :**
+
+```
+
+Input: 16
+Output: true
+
+```
+```
+
+Input: 5
+Output: false
+
+```
 
 
 
