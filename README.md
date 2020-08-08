@@ -74,7 +74,7 @@ hashSet.contains(2);    // returns false (already removed)
 ***
 
 #### Day-03 : 
-**Valid Palindrome : **
+**Valid Palindrome :**
 
 >Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
 
@@ -101,7 +101,7 @@ Output: false
 ***
 
 #### Day-04 : 
-**Power of Four : **
+**Power of Four :**
 
 >Given an integer (signed 32 bits), write a function to check whether it is a power of 4.
 
